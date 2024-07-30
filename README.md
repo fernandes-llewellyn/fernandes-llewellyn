@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Globus, RDSS, GCP and Quest
 - 📫 How to reach me: llewellyn.fernandes@northwestern.edu
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I know exactly what to do. But in a much more real sense, I have no idea what to do.
 
 <!---
 fernandes-llewellyn/fernandes-llewellyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
